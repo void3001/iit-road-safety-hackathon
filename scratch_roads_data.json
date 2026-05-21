@@ -1,0 +1,662 @@
+[
+    {
+        "sNo": 1,
+        "name": "Lucknow\u2013Sultanpur Expressway",
+        "contractor": "Dilip Buildcon Limited (DBL)",
+        "authority": "UPEIDA",
+        "state": "Uttar Pradesh",
+        "start": [
+            26.8467,
+            80.9462
+        ],
+        "end": [
+            26.2648,
+            82.0727
+        ],
+        "sanctionedBudget": 4650,
+        "contractAmount": 4394.85,
+        "engineerEmail": "ee.lucknow-sultanpur@upeida.in",
+        "qualityScore": 8.5,
+        "condition": "Excellent",
+        "lastRelaying": "21 Oct 2022",
+        "warrantyExpiry": "16 Sep 2027"
+    },
+    {
+        "sNo": 2,
+        "name": "Ganga Expressway",
+        "contractor": "Adani Enterprises Limited (AEL), IRB Infrastructure Developers, H.G. Infra Engineering Ltd",
+        "authority": "UPEIDA",
+        "state": "Uttar Pradesh",
+        "start": [
+            28.9845,
+            77.7064
+        ],
+        "end": [
+            25.4358,
+            81.8463
+        ],
+        "sanctionedBudget": 36230,
+        "contractAmount": 32887.64,
+        "engineerEmail": "ee.ganga-exp@upeida.in",
+        "qualityScore": 7.9,
+        "condition": "Good",
+        "lastRelaying": "2 May 2024",
+        "warrantyExpiry": "20 Feb 2027"
+    },
+    {
+        "sNo": 3,
+        "name": "Mumbai-Nagpur Expressway (Samruddhi Mahamarg)",
+        "contractor": "Megha Engineering & Infrastructures Ltd (MEIL), Afcons Infrastructure, Navayuga Engineering Company Limited (NECL)",
+        "authority": "MSRDC",
+        "state": "Maharashtra",
+        "start": [
+            19.076,
+            72.8777
+        ],
+        "end": [
+            21.1458,
+            79.0882
+        ],
+        "sanctionedBudget": 55335,
+        "contractAmount": 47815.36,
+        "engineerEmail": "chiefeng.samruddhi@msrdc.in",
+        "qualityScore": 9.1,
+        "condition": "Excellent",
+        "lastRelaying": "19 May 2022",
+        "warrantyExpiry": "19 May 2030"
+    },
+    {
+        "sNo": 4,
+        "name": "Purvanchal Expressway",
+        "contractor": "Gayatri Projects, Apco Infratech, GR Infraprojects,PNC Infratech, and Oriental Structural Engineers",
+        "authority": "UPEIDA",
+        "state": "Uttar Pradesh",
+        "start": [
+            26.8467,
+            80.9462
+        ],
+        "end": [
+            25.584,
+            83.577
+        ],
+        "sanctionedBudget": 22494,
+        "contractAmount": 20943.21,
+        "engineerEmail": "ee.purvanchal@upeida.in",
+        "qualityScore": 8.4,
+        "condition": "Good",
+        "lastRelaying": "26 Dec 2024",
+        "warrantyExpiry": "15 Jun 2030"
+    },
+    {
+        "sNo": 5,
+        "name": "Yamuna Expressway",
+        "contractor": "Jaypee Infratech Ltd",
+        "authority": "YEIDA",
+        "state": "Uttar Pradesh",
+        "start": [
+            28.4744,
+            77.503
+        ],
+        "end": [
+            27.1767,
+            78.0081
+        ],
+        "sanctionedBudget": 12839,
+        "contractAmount": 11482.48,
+        "engineerEmail": "ee.yamuna-exp@yeida.gov.in",
+        "qualityScore": 8.2,
+        "condition": "Good",
+        "lastRelaying": "12 Apr 2024",
+        "warrantyExpiry": "4 Oct 2030"
+    },
+    {
+        "sNo": 6,
+        "name": "Chittorgarh-Udaipur Highway",
+        "contractor": "H.G. Infra Engineering Ltd",
+        "authority": "NHAI",
+        "state": "Rajasthan",
+        "start": [
+            24.8887,
+            74.6269
+        ],
+        "end": [
+            24.5854,
+            73.7125
+        ],
+        "sanctionedBudget": 1120,
+        "contractAmount": 1042.57,
+        "engineerEmail": "piu.udaipur@nhai.org",
+        "qualityScore": 7.6,
+        "condition": "Good",
+        "lastRelaying": "21 Jul 2022",
+        "warrantyExpiry": "8 Mar 2027"
+    },
+    {
+        "sNo": 7,
+        "name": "Balotra-Sanderao Road (Rajasthan)",
+        "contractor": "H.G. Infra Engineering Ltd",
+        "authority": "PWD Rajasthan",
+        "state": "Rajasthan",
+        "start": [
+            25.83,
+            72.24
+        ],
+        "end": [
+            25.26,
+            73.18
+        ],
+        "sanctionedBudget": 450,
+        "contractAmount": 403.46,
+        "engineerEmail": "ee.balotra@pwd.rajasthan.gov.in",
+        "qualityScore": 6.2,
+        "condition": "Fair",
+        "lastRelaying": "19 Oct 2024",
+        "warrantyExpiry": "1 Oct 2030"
+    },
+    {
+        "sNo": 8,
+        "name": "Mughal Road (J&K)",
+        "contractor": "Hindustan Construction Company (HCC)",
+        "authority": "JK PWD",
+        "state": "Jammu & Kashmir",
+        "start": [
+            33.6186,
+            74.3435
+        ],
+        "end": [
+            33.7222,
+            74.8317
+        ],
+        "sanctionedBudget": 640,
+        "contractAmount": 586.45,
+        "engineerEmail": "ee.mughalroad@jkpwd.nic.in",
+        "qualityScore": 5.8,
+        "condition": "Fair",
+        "lastRelaying": "27 Apr 2022",
+        "warrantyExpiry": "3 Jun 2029"
+    },
+    {
+        "sNo": 9,
+        "name": "Mumbai Coastal Road Project",
+        "contractor": "Larsen & Toubro (L&T)  ,Hindustan Construction Company (HCC) and Hyundai Development Corporation",
+        "authority": "MCGM",
+        "state": "Maharashtra",
+        "start": [
+            18.9438,
+            72.8236
+        ],
+        "end": [
+            19.0016,
+            72.8162
+        ],
+        "sanctionedBudget": 12721,
+        "contractAmount": 11789.36,
+        "engineerEmail": "se.coastalroad@mcgm.gov.in",
+        "qualityScore": 9.2,
+        "condition": "Excellent",
+        "lastRelaying": "14 Jun 2022",
+        "warrantyExpiry": "9 Jan 2029"
+    },
+    {
+        "sNo": 10,
+        "name": "Bangalore\u2013Nidagatta Road",
+        "contractor": "Dilip Buildcon Limited (DBL)",
+        "authority": "NHAI",
+        "state": "Karnataka",
+        "start": [
+            12.9716,
+            77.5946
+        ],
+        "end": [
+            12.54,
+            77.05
+        ],
+        "sanctionedBudget": 2190,
+        "contractAmount": 1940.04,
+        "engineerEmail": "piu.bangalore@nhai.org",
+        "qualityScore": 8.8,
+        "condition": "Excellent",
+        "lastRelaying": "23 Aug 2022",
+        "warrantyExpiry": "6 Jul 2028"
+    },
+    {
+        "sNo": 11,
+        "name": "Ambala\u2013Kaithal Highway",
+        "contractor": "Dilip Buildcon Limited (DBL)",
+        "authority": "NHAI",
+        "state": "Haryana",
+        "start": [
+            30.3782,
+            76.7767
+        ],
+        "end": [
+            29.8015,
+            76.4005
+        ],
+        "sanctionedBudget": 980,
+        "contractAmount": 878.53,
+        "engineerEmail": "piu.ambala@nhai.org",
+        "qualityScore": 7.4,
+        "condition": "Good",
+        "lastRelaying": "27 Jan 2022",
+        "warrantyExpiry": "18 Jun 2028"
+    },
+    {
+        "sNo": 12,
+        "name": "Agra\u2013Lucknow Expressway (302 km)",
+        "contractor": "Afcons Infrastructure, Larsen & Toubro (L&T), NCC, and PNC Infratech",
+        "authority": "UPEIDA",
+        "state": "Uttar Pradesh",
+        "start": [
+            27.1767,
+            78.0081
+        ],
+        "end": [
+            26.8467,
+            80.9462
+        ],
+        "sanctionedBudget": 15000,
+        "contractAmount": 13309.03,
+        "engineerEmail": "ee.agra-lucknow@upeida.in",
+        "qualityScore": 8.9,
+        "condition": "Excellent",
+        "lastRelaying": "20 Dec 2024",
+        "warrantyExpiry": "18 Oct 2027"
+    },
+    {
+        "sNo": 13,
+        "name": "Lucknow\u2013Kanpur Expressway (62 km)",
+        "contractor": "PNC Infratech Ltd.",
+        "authority": "NHAI",
+        "state": "Uttar Pradesh",
+        "start": [
+            26.8467,
+            80.9462
+        ],
+        "end": [
+            26.4499,
+            80.3319
+        ],
+        "sanctionedBudget": 4700,
+        "contractAmount": 4213.06,
+        "engineerEmail": "piu.kanpur@nhai.org",
+        "qualityScore": 7.2,
+        "condition": "Good",
+        "lastRelaying": "7 Oct 2023",
+        "warrantyExpiry": "23 Jan 2029"
+    },
+    {
+        "sNo": 14,
+        "name": "Thane\u2013Bhiwandi Bypass",
+        "contractor": "IRB Infrastructure Developers Ltd.",
+        "authority": "MMRDA",
+        "state": "Maharashtra",
+        "start": [
+            19.2183,
+            72.9781
+        ],
+        "end": [
+            19.2813,
+            73.0483
+        ],
+        "sanctionedBudget": 1150,
+        "contractAmount": 1064.9,
+        "engineerEmail": "ee.thane-bhiwandi@mmrda.gov.in",
+        "qualityScore": 6.7,
+        "condition": "Fair",
+        "lastRelaying": "4 Jun 2023",
+        "warrantyExpiry": "5 Jun 2030"
+    },
+    {
+        "sNo": 15,
+        "name": "Goa\u2013Karnataka border (NH-66), Karwar\u2013Kundapur",
+        "contractor": "IRB West-coast Tollway Limited (IWTPL)",
+        "authority": "NHAI",
+        "state": "Karnataka",
+        "start": [
+            14.808,
+            74.13
+        ],
+        "end": [
+            13.6261,
+            74.6936
+        ],
+        "sanctionedBudget": 3480,
+        "contractAmount": 3050.27,
+        "engineerEmail": "piu.karwar@nhai.org",
+        "qualityScore": 8.1,
+        "condition": "Good",
+        "lastRelaying": "4 Aug 2022",
+        "warrantyExpiry": "12 Sep 2028"
+    },
+    {
+        "sNo": 16,
+        "name": "Khammam\u2013Vijayawada (NH-163G",
+        "contractor": "Megha Engineering and Infrastructures Ltd (MEIL)",
+        "authority": "NHAI",
+        "state": "Andhra Pradesh",
+        "start": [
+            17.2473,
+            80.1514
+        ],
+        "end": [
+            16.5062,
+            80.648
+        ],
+        "sanctionedBudget": 2400,
+        "contractAmount": 2267.29,
+        "engineerEmail": "piu.vijayawada@nhai.org",
+        "qualityScore": 7.8,
+        "condition": "Good",
+        "lastRelaying": "18 Sep 2022",
+        "warrantyExpiry": "17 Feb 2030"
+    },
+    {
+        "sNo": 17,
+        "name": "Sargi\u2013Basanwahi (NH-130-CD)",
+        "contractor": "Dilip Buildcon Limited (DBL)",
+        "authority": "NHAI",
+        "state": "Chhattisgarh",
+        "start": [
+            20.3,
+            81.5
+        ],
+        "end": [
+            20.1,
+            81.3
+        ],
+        "sanctionedBudget": 520,
+        "contractAmount": 455.48,
+        "engineerEmail": "piu.dhamtari@nhai.org",
+        "qualityScore": 6.9,
+        "condition": "Fair",
+        "lastRelaying": "9 Apr 2024",
+        "warrantyExpiry": "11 Jul 2030"
+    },
+    {
+        "sNo": 18,
+        "name": "Dhrol\u2013Bhadra\u2013Patiya (NH-151)",
+        "contractor": "Dilip Buildcon Limited (DBL)",
+        "authority": "NHAI",
+        "state": "Gujarat",
+        "start": [
+            22.5644,
+            70.4132
+        ],
+        "end": [
+            22.75,
+            70.6
+        ],
+        "sanctionedBudget": 610,
+        "contractAmount": 558.72,
+        "engineerEmail": "piu.rajkot@nhai.org",
+        "qualityScore": 7.0,
+        "condition": "Good",
+        "lastRelaying": "6 Oct 2023",
+        "warrantyExpiry": "26 Aug 2030"
+    },
+    {
+        "sNo": 19,
+        "name": "Patacharkuchi\u2013Baihata (NH-27)",
+        "contractor": "Shree Gautam Construction Company Ltd",
+        "authority": "NHAI",
+        "state": "Assam",
+        "start": [
+            26.4354,
+            91.1762
+        ],
+        "end": [
+            26.3456,
+            91.7243
+        ],
+        "sanctionedBudget": 1420,
+        "contractAmount": 1289.22,
+        "engineerEmail": "piu.guwahati@nhai.org",
+        "qualityScore": 7.3,
+        "condition": "Good",
+        "lastRelaying": "6 Sep 2024",
+        "warrantyExpiry": "6 Jun 2027"
+    },
+    {
+        "sNo": 20,
+        "name": "Durg\u2013Raipur\u2013Arang (NH)",
+        "contractor": "SMS Ltd in JV with Mehrotra Buildcon",
+        "authority": "NHAI",
+        "state": "Chhattisgarh",
+        "start": [
+            21.1904,
+            81.2849
+        ],
+        "end": [
+            21.1952,
+            81.9664
+        ],
+        "sanctionedBudget": 2280,
+        "contractAmount": 2167.74,
+        "engineerEmail": "piu.raipur@nhai.org",
+        "qualityScore": 8.0,
+        "condition": "Good",
+        "lastRelaying": "19 Dec 2024",
+        "warrantyExpiry": "19 Sep 2027"
+    },
+    {
+        "sNo": 21,
+        "name": "Dwarka Expressway",
+        "contractor": "Larsen & Toubro (L&T) and J. Kumar Infraprojects",
+        "authority": "NHAI",
+        "state": "Delhi/Haryana",
+        "start": [
+            28.5823,
+            77.05
+        ],
+        "end": [
+            28.4595,
+            77.0266
+        ],
+        "sanctionedBudget": 9000,
+        "contractAmount": 8261.61,
+        "engineerEmail": "piu.dwarka@nhai.org",
+        "qualityScore": 9.3,
+        "condition": "Excellent",
+        "lastRelaying": "26 Sep 2022",
+        "warrantyExpiry": "1 Feb 2030"
+    },
+    {
+        "sNo": 22,
+        "name": "NH-130CD Pkg-1 (Aluru\u2013Jakkuva)",
+        "contractor": "H.G. Infra Engineering Limited",
+        "authority": "NHAI",
+        "state": "Chhattisgarh",
+        "start": [
+            19.8,
+            81.6
+        ],
+        "end": [
+            19.6,
+            81.8
+        ],
+        "sanctionedBudget": 540,
+        "contractAmount": 507.13,
+        "engineerEmail": "piu.kondagaon@nhai.org",
+        "qualityScore": 6.8,
+        "condition": "Fair",
+        "lastRelaying": "9 Nov 2022",
+        "warrantyExpiry": "2 Aug 2028"
+    },
+    {
+        "sNo": 23,
+        "name": "Periyapatna-Hassan (NH-275) Pkg IV & V",
+        "contractor": "KNR Constructions Ltd",
+        "authority": "NHAI",
+        "state": "Karnataka",
+        "start": [
+            12.3421,
+            76.0967
+        ],
+        "end": [
+            13.0072,
+            76.1026
+        ],
+        "sanctionedBudget": 1180,
+        "contractAmount": 1049.14,
+        "engineerEmail": "piu.hassan@nhai.org",
+        "qualityScore": 7.5,
+        "condition": "Good",
+        "lastRelaying": "11 Jan 2022",
+        "warrantyExpiry": "23 Feb 2027"
+    },
+    {
+        "sNo": 24,
+        "name": "Yagyi\u2013Kalewa Section (India-Myanmar Friendship Road)",
+        "contractor": "Punj Lloyd Ltd \u2013 Varaha Infra Ltd (JV)",
+        "authority": "NHIDCL",
+        "state": "Manipur",
+        "start": [
+            22.8,
+            94.8
+        ],
+        "end": [
+            23.03,
+            94.34
+        ],
+        "sanctionedBudget": 1600,
+        "contractAmount": 1379.24,
+        "engineerEmail": "gm.imphal@nhidcl.com",
+        "qualityScore": 5.2,
+        "condition": "Poor",
+        "lastRelaying": "3 Aug 2023",
+        "warrantyExpiry": "8 Feb 2030"
+    },
+    {
+        "sNo": 25,
+        "name": "Srinagar Ring Road Phase-I (km 0\u201342.1)",
+        "contractor": "NKC Projects Private Limited.",
+        "authority": "NHAI",
+        "state": "Jammu & Kashmir",
+        "start": [
+            34.0837,
+            74.7973
+        ],
+        "end": [
+            34.0191,
+            74.8876
+        ],
+        "sanctionedBudget": 1195,
+        "contractAmount": 1027.25,
+        "engineerEmail": "piu.srinagar@nhai.org",
+        "qualityScore": 7.1,
+        "condition": "Good",
+        "lastRelaying": "28 Jul 2023",
+        "warrantyExpiry": "13 Mar 2028"
+    },
+    {
+        "sNo": 26,
+        "name": "Ahmedabad\u2013Vadodara NH-8 six-laning",
+        "contractor": "IRB Infrastructure",
+        "authority": "NHAI",
+        "state": "Gujarat",
+        "start": [
+            23.0225,
+            72.5714
+        ],
+        "end": [
+            22.3072,
+            73.1812
+        ],
+        "sanctionedBudget": 3250,
+        "contractAmount": 2985.58,
+        "engineerEmail": "piu.ahmedabad@nhai.org",
+        "qualityScore": 8.3,
+        "condition": "Good",
+        "lastRelaying": "6 Jan 2022",
+        "warrantyExpiry": "9 Sep 2028"
+    },
+    {
+        "sNo": 27,
+        "name": "NH-716B Pkg-II (Kumarajapet\u2013Veera Kaveri Raja Puram)",
+        "contractor": "EKK Infrastructure Ltd",
+        "authority": "NHAI",
+        "state": "Andhra Pradesh",
+        "start": [
+            13.15,
+            79.6
+        ],
+        "end": [
+            13.1,
+            79.8
+        ],
+        "sanctionedBudget": 870,
+        "contractAmount": 832.91,
+        "engineerEmail": "piu.nellore@nhai.org",
+        "qualityScore": 7.0,
+        "condition": "Good",
+        "lastRelaying": "18 Oct 2024",
+        "warrantyExpiry": "5 Sep 2028"
+    },
+    {
+        "sNo": 28,
+        "name": "NH-130CD Pkg-2 (Jakkuva\u2013Korlam)",
+        "contractor": "NKC Projects Pvt Ltd",
+        "authority": "NHAI",
+        "state": "Chhattisgarh",
+        "start": [
+            19.6,
+            81.8
+        ],
+        "end": [
+            19.4,
+            82.0
+        ],
+        "sanctionedBudget": 590,
+        "contractAmount": 542.39,
+        "engineerEmail": "piu.koraput@nhai.org",
+        "qualityScore": 6.5,
+        "condition": "Fair",
+        "lastRelaying": "8 Nov 2022",
+        "warrantyExpiry": "1 Mar 2028"
+    },
+    {
+        "sNo": 29,
+        "name": "Ahmedabad\u2013Dholera Expressway",
+        "contractor": "Sadbhav Engineering, GHV India Pvt. Ltd.,",
+        "authority": "NHAI",
+        "state": "Gujarat",
+        "start": [
+            23.0225,
+            72.5714
+        ],
+        "end": [
+            22.2533,
+            72.1904
+        ],
+        "sanctionedBudget": 4200,
+        "contractAmount": 3940.65,
+        "engineerEmail": "piu.dholera@nhai.org",
+        "qualityScore": 8.7,
+        "condition": "Excellent",
+        "lastRelaying": "19 Jun 2022",
+        "warrantyExpiry": "13 Jul 2027"
+    },
+    {
+        "sNo": 30,
+        "name": "Agra\u2013Gwalior Greenfield Expressway (NH-719D)",
+        "contractor": "GR Infraprojects Ltd",
+        "authority": "NHAI",
+        "state": "Uttar Pradesh/MP",
+        "start": [
+            27.1767,
+            78.0081
+        ],
+        "end": [
+            26.2183,
+            78.1828
+        ],
+        "sanctionedBudget": 4610,
+        "contractAmount": 4025.34,
+        "engineerEmail": "piu.gwalior@nhai.org",
+        "qualityScore": 7.4,
+        "condition": "Good",
+        "lastRelaying": "25 Jun 2022",
+        "warrantyExpiry": "12 Nov 2030"
+    }
+]
